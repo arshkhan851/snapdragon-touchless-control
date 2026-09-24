@@ -82,6 +82,12 @@ Gesture triggers are debounced (must be held for a few consecutive
 frames) and rate-limited (cooldown between repeated triggers) to avoid
 false positives.
 
+## Screenshots
+
+![Qualcomm AI Hub inference job results](docs/screenshots/ai-hub-inference-results-1.jpg)
+
+![Qualcomm AI Hub inference metrics](docs/screenshots/ai-hub-inference-results-2.jpg)
+
 ## Limitations / future work
 
 - Gesture set is limited to MediaPipe's built-in canned gestures
