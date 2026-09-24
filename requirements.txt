@@ -1,0 +1,3 @@
+qai_hub_models
+keyboard
+opencv-python
